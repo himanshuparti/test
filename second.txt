@@ -1,0 +1,1 @@
+Editing second.txt file using git's notepad command.
